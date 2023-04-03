@@ -1,0 +1,72 @@
+div {
+  padding: 10px;
+}
+header,
+h2 {
+  margin-top: 0;
+}
+body {
+  margin: 0;
+}
+h2,
+h3,
+li {
+  text-align: center;
+}
+.title {
+  position: relative;
+  background: #78e29f;
+  height: 50px;
+}
+.menu {
+  position: absolute;
+  top: 25px;
+  right: 40px;
+}
+/*.modal:hover {
+  position: relative;
+  width: 90px;
+  height: 80px;
+  display: block;
+  top: 34px;
+  right: 89px;
+  background-color: #beb9b9;
+}
+ul:hover {
+  position: fixed;
+  list-style: none;
+  padding: 0;
+  top: 25px;
+  margin-top: 0;
+}
+a:hover {
+  color: #000000;
+}*/
+.home {
+  position: relative;
+  left: 5%;
+  background: #f3e449;
+  width: 400px;
+  height: 150px;
+}
+.about {
+  position: relative;
+  left: 50%;
+  background: #84f55c;
+  width: 400px;
+  height: 150px;
+}
+.works {
+  position: relative;
+  left: 10%;
+  background: #be63ee;
+  width: 400px;
+  height: 150px;
+}
+.contacts {
+  position: relative;
+  left: 60%;
+  background: #f5615c;
+  width: 400px;
+  height: 140px;
+}
